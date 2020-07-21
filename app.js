@@ -55,7 +55,3 @@ request.end();
 app.listen(process.env.PORT || 3000, function(req, res) {
     console.log("Server is running on port 3000.")
 });
-
-// Mailchimp API key & Unique list ID 
-// 2b13e5b7cb7386d119029d653239414a-us10
-// 5227a62dca
